@@ -1,7 +1,9 @@
 # CRYPTOGRAPHY
 # HILL CIPHER
-# EX. NO: 1(C) AIM:
-  IMPLEMENTATION OF HILL CIPHER
+# EX. NO: 1(C)
+
+AIM:
+ To implement the Hill Cipher encryption and decryption techniques using matrix operations in a programming language (such as C, Python, or Java), demonstrating the use of linear algebra concepts for secure message encoding and decoding in classical cryptography.
 ## To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
